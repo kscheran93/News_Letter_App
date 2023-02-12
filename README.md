@@ -1,6 +1,6 @@
 # News_Letter_App basic app.
 This is build with node &amp; Express with Mailchimp Database
-#For the source code please check the 
+#For the source code please check the master branch
 
 ## Tech stack 
 1. HTML5
